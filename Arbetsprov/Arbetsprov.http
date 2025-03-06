@@ -1,0 +1,6 @@
+@Arbetsprov_HostAddress = http://localhost:5151
+
+GET {{Arbetsprov_HostAddress}}/playlist/1
+Accept: application/json
+
+###
